@@ -1,4 +1,4 @@
-# openjdk-jre-kundle-extension
+# openjdk-jre-kindle-extension
 
 Repository to repack openjdk-jre as kindle extension
 
