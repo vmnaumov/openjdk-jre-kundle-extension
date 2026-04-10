@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "name": "OpenJDK 6 JRE",
+      "priority": 0,
+      "items": [
+        {
+          "name": "Check installation",
+          "priority": -1,
+          "exitmenu": false,
+          "date": true,
+          "checked": true,
+          "refresh": false,
+          "action": "./bin/check-jre.sh",
+          "params": "print_detailed_status"
+        }
+      ]
+    }
+  ]
+}

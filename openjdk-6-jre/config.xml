@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension>
+    <information>
+        <name>OpenJDK 6 JRE</name>
+        <version>6b41</version>
+        <author>vmnaumov</author>
+        <id>openjdk-6-jre</id>
+    </information>
+    <menus>
+        <menu type="json" dynamic="true">menu.json</menu>
+    </menus>
+</extension>
